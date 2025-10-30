@@ -1,6 +1,6 @@
-# IR3 Assets: pipes
+# IR3 Assets: tarmac
 
-Reskins the pipes using IR3 graphical assets, if installed.  
+Adds Tarmac using IR3 graphical assets, if installed.  
 
 *Requires the manual installation of the Industrial Revolution 3 Asset Packs.*
 
@@ -11,8 +11,6 @@ However, users have full permissions to make the necessary modifications themsel
 For licensing concerns: [FAQ](https://mods.factorio.com/mod/IR3_Assets_assembling_machines/faq)  
 
 See the mod [IR3 Assets: Some assembly required](https://mods.factorio.com/mod/IR3_Assets_some_assembly_required)
-
-*Startup setting to exclude pipe fluid animation*
 
 If the IR3 Assets are not installed, this mod will do nothing.
 
