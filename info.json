@@ -1,9 +1,9 @@
 {
     "name": "IR3_Assets_tarmac",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "title": "IR3 Assets: tarmac",
     "author": "0n0w1c",
-    "description": "Adds Tarmac\nRequires the manual installation of IR3 Assets",
+    "description": "Adds Tarmac using IR3 graphical assets, if installed.\nRequires the manual installation of IR3 Assets",
     "factorio_version": "2.0",
     "dependencies": [
         "base >= 2.0",
