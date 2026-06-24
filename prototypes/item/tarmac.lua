@@ -17,5 +17,6 @@ item.place_as_tile = {
 }
 item.stack_size = 100
 item.weight = 10000
+item.auto_recycle = false
 
 data:extend({ item })

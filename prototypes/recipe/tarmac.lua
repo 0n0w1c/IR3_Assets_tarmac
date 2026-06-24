@@ -1,4 +1,4 @@
-local category = "crafting-with-fluid"
+local categories = { "crafting-with-fluid" }
 local ingredients = {
     {
         amount = 10,
@@ -12,9 +12,8 @@ local ingredients = {
     }
 }
 
-
 if mods["IR3_Assets_crushing_industry"] then
-    category = "mixing-with-fluid"
+    categories = { "mixing-with-fluid" }
     ingredients = {
         {
             amount = 10,
@@ -40,7 +39,8 @@ recipe.type = "recipe"
 recipe.name = "tarmac"
 
 recipe.always_show_products = true
-recipe.category = category
+recipe.auto_recycle = false
+recipe.categories = categories
 recipe.crafting_machine_tint = {
     primary = { 32, 32, 32 },
     quaternary = { a = 1, b = 0.5, g = 1, r = 0.6 },
